@@ -16,6 +16,11 @@ namespace PushToGitProject
         {
             return "name";
         }
+
+        public static int SumofMethod(int a , int b)
+        {
+            return a + b;
+        }
         static void Main(string[] args)
         {
         }
